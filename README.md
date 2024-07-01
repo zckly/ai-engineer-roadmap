@@ -2,7 +2,7 @@
   <h2 align="center">AI Engineer Roadmap</h2>
   <p align="center">The most comprehensive roadmap for becoming an AI Engineer in 2024</p>
   <p align="center">
-      <a href="https://twitter.com/home?status=https://dub.sh/ai-roadmap The most comprehensive roadmap for becoming an AI Engineer in 2024" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://x.com/home?status=https://dub.sh/ai-roadmap The most comprehensive roadmap for becoming an AI Engineer in 2024" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://dub.sh/ai-roadmap&title=&summary=The most comprehensive roadmap for becoming an AI Engineer in 2024&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
       <a href="https://github.com/zckly/ai-engineer-roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
   </p>
@@ -40,12 +40,13 @@ There are tons of roadmaps out there for learning web development. One of my fav
 ## Beginner Text Generation
 
 1. **Understanding Large Language Models (LLMs)**
-   - Watch [3Blue1Brown's YouTube videos](https://www.youtube.com/watch?v=wjZofJX0v4M) for intuitive explanations
+   - Watch [3Blue1Brown's Youtube series on LLMs/Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M) as an entry point
+   - (Bonus) Watch [Karpathy's video on building GPT from scratch](https://youtu.be/kCc8FmEb1nY)
 
 2. **Proprietary LLMs**
    - OpenAI's GPT models
-   - Anthropic's Claude
-   - Google's PaLM and Gemini
+   - Anthropic's Claude 3 family
+   - Google's Gemini
 
 3. **Open-source LLMs**
    - Meta's LLaMA 3
@@ -115,6 +116,8 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 ---
 
-This roadmap is designed to be flexible and adaptable. Feel free to adjust your learning path based on your interests and project requirements. Remember to stay updated with the latest developments in AI, as the field is constantly evolving.
-
 Happy learning and building!
+
+- Zack
+
+[my twitter](https://x.com/wenquai)
