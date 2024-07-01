@@ -27,7 +27,7 @@ Choose between two routes based on your coding experience and project requiremen
 ## Beginner Text Generation
 
 1. **Understanding Large Language Models (LLMs)**
-   - Watch [3Blue1Brown's YouTube videos](https://www.youtube.com/c/3blue1brown) for intuitive explanations
+   - Watch [3Blue1Brown's YouTube videos](https://www.youtube.com/watch?v=wjZofJX0v4M) for intuitive explanations
 
 2. **Proprietary LLMs**
    - OpenAI's GPT models
@@ -39,10 +39,10 @@ Choose between two routes based on your coding experience and project requiremen
    - Cohere's Command-R
 
 4. **Prompt Engineering**
-   - Study [Anthropic's Prompting Guide](https://www.anthropic.com/index/a-guide-to-writing-prompts-for-ai-language-models)
+   - Study [Anthropic's Prompting Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 5. **Basic Chatbots**
-   - Explore [Vercel's AI Library documentation](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
+   - Explore [Vercel's AI Library documentation](https://sdk.vercel.ai/docs/introduction)
    - Project: Create a poem generator
 
 6. **Handling Structured Output**
