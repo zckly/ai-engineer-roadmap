@@ -37,7 +37,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 - **Workflow Builder**: Use Zapier to automate processes and integrate applications
 - **Database**: Leverage Firebase or Airtable for easy-to-use, scalable data storage solutions
 
-## Beginner Text Generation
+## 1. Beginner Text Generation
 
 1. **Understanding Large Language Models (LLMs)**
    - Watch [3Blue1Brown's Youtube series on LLMs/Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M) as an entry point
@@ -62,7 +62,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 6. **Handling Structured Output**
    - Learn techniques for generating and parsing structured data from LLMs
 
-## Advanced Text Generation
+## 2. Advanced Text Generation
 
 1. **Function Calling and Tool Usage**
    - Implement LLM-powered tools and integrate external functions
@@ -83,18 +83,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 6. **AI Agents**
    - Study projects like OpenDevin to understand autonomous AI systems
 
-## Image Generation
-
-1. **Prompt Engineering for Image Generation**
-   - Learn art history and photography terminology to craft effective prompts
-
-2. **Proprietary Image Generation Models**
-   - Explore capabilities of models like GPT-4V (OpenAI)
-
-3. **Open-source Image Generation Models**
-   - Experiment with Stable Diffusion and other accessible models
-
-## Speech
+## 3. Speech
 
 1. **Text-to-Speech (TTS)**
    - Implement TTS using services like ElevenLabs
@@ -106,7 +95,18 @@ There are tons of roadmaps out there for learning web development. One of my fav
 3. **Speech Analysis**
    - Explore emotion and intent analysis using tools like Hume AI or Google Gemini 1.5 Pro
 
-## Computer Vision
+## 4. Image Generation
+
+1. **Prompt Engineering for Image Generation**
+   - Learn art history and photography terminology to craft effective prompts
+
+2. **Proprietary Image Generation Models**
+   - Explore capabilities of models like GPT-4V (OpenAI)
+
+3. **Open-source Image Generation Models**
+   - Experiment with Stable Diffusion and other accessible models
+
+## 5. Computer Vision
 
 1. **Image Analysis**
    - Leverage models like Claude or GPT-4V for comprehensive image understanding
