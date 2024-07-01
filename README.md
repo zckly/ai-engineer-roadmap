@@ -2,7 +2,7 @@
 
 *The fastest, most comprehensive way to become an AI Engineer in 2024*
 
-Welcome to the AI Engineer Roadmap! This guide is designed to help you navigate the exciting and rapidly evolving field of AI engineering. Whether you're just starting out or looking to expand your skills, this roadmap covers essential topics and provides resources to support your learning journey.
+Welcome to the AI Engineer Roadmap! This guide offers a project-based approach to mastering AI engineering, whether you're a beginner or looking to expand your skills. Each section includes practical projects to apply your knowledge, build real-world AI applications, and develop crucial problem-solving skills ᕙ(  •̀ ᗜ •́  )ᕗ 
 
 ## Table of Contents
 1. [Web/App Development](#webapp-development)
