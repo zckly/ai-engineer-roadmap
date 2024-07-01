@@ -1,17 +1,8 @@
-<p align="center">
-  <h2 align="center">AI Engineer Roadmap</h2>
-  <p align="center">The most comprehensive roadmap for becoming an AI Engineer in 2024</p>
-  <p align="center">
-      <a href="https://x.com/home?status=https://dub.sh/ai-roadmap The most comprehensive roadmap for becoming an AI Engineer in 2024" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://dub.sh/ai-roadmap&title=&summary=The most comprehensive roadmap for becoming an AI Engineer in 2024&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/zckly/ai-engineer-roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
-  </p>
-  <br>
-</p>
-
 # AI Engineer Roadmap
 
-Welcome to the comprehensive AI Engineer Roadmap! This guide is designed to help you navigate the exciting and rapidly evolving field of AI engineering. Whether you're just starting out or looking to expand your skills, this roadmap covers essential topics and provides resources to support your learning journey.
+*The fastest, most comprehensive way to become an AI Engineer in 2024*
+
+Welcome to the AI Engineer Roadmap! This guide is designed to help you navigate the exciting and rapidly evolving field of AI engineering. Whether you're just starting out or looking to expand your skills, this roadmap covers essential topics and provides resources to support your learning journey.
 
 ## Table of Contents
 1. [Web/App Development](#webapp-development)
@@ -21,7 +12,7 @@ Welcome to the comprehensive AI Engineer Roadmap! This guide is designed to help
 5. [Speech](#speech)
 6. [Computer Vision](#computer-vision)
 
-## 0. Web/App Development
+## Web/App Development
 
 It helps to have the ability to code your own interfaces, but it's also 100% possible to build AI products without knowing how to program. It's up to you if you wanna go down the coding (full-stack) route or no-code (Webflow, Zapier, etc) route.
 
@@ -37,7 +28,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 - **Workflow Builder**: Use Zapier to automate processes and integrate applications
 - **Database**: Leverage Firebase or Airtable for easy-to-use, scalable data storage solutions
 
-## 1. Beginner Text Generation
+## Beginner Text Generation
 
 1. **Understanding Large Language Models (LLMs)**
    - Watch [3Blue1Brown's Youtube series on LLMs/Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M) as an entry point
@@ -61,8 +52,9 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 6. **Handling Structured Output**
    - Learn techniques for generating and parsing structured data from LLMs
+   - Check out [Instructor](https://github.com/instructor-ai/instructor-js) or use string parsing
 
-## 2. Advanced Text Generation
+## Advanced Text Generation
 
 1. **Function Calling and Tool Usage**
    - Implement LLM-powered tools and integrate external functions
@@ -82,8 +74,9 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 6. **AI Agents**
    - Study projects like OpenDevin to understand autonomous AI systems
+   - Project: Autonomous research agent
 
-## 3. Speech
+## Speech
 
 1. **Text-to-Speech (TTS)**
    - Implement TTS using services like ElevenLabs
@@ -94,25 +87,29 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 3. **Speech Analysis**
    - Explore emotion and intent analysis using tools like Hume AI or Google Gemini 1.5 Pro
+   - Project: create an AI Therapist with emotion detection
 
-## 4. Image Generation
+## Image Generation
 
 1. **Prompt Engineering for Image Generation**
-   - Learn art history and photography terminology to craft effective prompts
+   - Read up on art history and photography terminology to craft effective prompts
+   - Join the [Midjourney Discord](https://discord.gg/midjourney) to study how experts prompt image models
 
 2. **Proprietary Image Generation Models**
    - Explore capabilities of models like GPT-4V (OpenAI)
+   - Project: Children's coloring/story book generator
 
 3. **Open-source Image Generation Models**
    - Experiment with Stable Diffusion and other accessible models
 
-## 5. Computer Vision
+## Computer Vision
 
 1. **Image Analysis**
    - Leverage models like Claude or GPT-4V for comprehensive image understanding
 
 2. **Video Analysis**
    - Explore advanced capabilities with models like Google Gemini 1.5 Pro
+   - Project: [Video narration](https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding)
 
 ---
 
