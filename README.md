@@ -1,3 +1,14 @@
+<p align="center">
+  <h2 align="center">AI Engineer Roadmap</h2>
+  <p align="center">The most comprehensive roadmap for becoming an AI Engineer in 2024</p>
+  <p align="center">
+      <a href="https://twitter.com/home?status=https://dub.sh/ai-roadmap The most comprehensive roadmap for becoming an AI Engineer in 2024" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://dub.sh/ai-roadmap&title=&summary=The most comprehensive roadmap for becoming an AI Engineer in 2024&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://github.com/zckly/ai-engineer-roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
+  </p>
+  <br>
+</p>
+
 # AI Engineer Roadmap
 
 Welcome to the comprehensive AI Engineer Roadmap! This guide is designed to help you navigate the exciting and rapidly evolving field of AI engineering. Whether you're just starting out or looking to expand your skills, this roadmap covers essential topics and provides resources to support your learning journey.
@@ -10,16 +21,18 @@ Welcome to the comprehensive AI Engineer Roadmap! This guide is designed to help
 5. [Speech](#speech)
 6. [Computer Vision](#computer-vision)
 
-## Web/App Development
+## 0. Web/App Development
 
-Choose between two routes based on your coding experience and project requirements:
+It helps to have the ability to code your own interfaces, but it's also 100% possible to build AI products without knowing how to program. It's up to you if you wanna go down the coding (full-stack) route or no-code (Webflow, Zapier, etc) route.
 
-### Coding Route
+### Full-stack Route (recommended)
 - **Front-end**: Learn React for building interactive user interfaces
 - **Back-end**: Master NodeJS/NextJS for server-side development
 - **Database**: Understand and implement Postgres for data storage
 
-### No-coding Route
+There are tons of roadmaps out there for learning web development. One of my favorites is [Scrimba](https://v2.scrimba.com/the-frontend-developer-career-path-c0j). I also have a [bootcamp on Youtube that covers full-stack web dev + building AI apps](https://www.youtube.com/watch?v=P0VuGgPBpjM)
+
+### No-code Route
 - **Website Builder**: Explore Webflow for creating professional websites without coding
 - **Workflow Builder**: Use Zapier to automate processes and integrate applications
 - **Database**: Leverage Firebase or Airtable for easy-to-use, scalable data storage solutions
