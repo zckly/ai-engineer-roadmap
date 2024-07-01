@@ -1,5 +1,7 @@
 # AI Engineer Roadmap
 
+#### Last updated: 7/1/24
+
 *The fastest, most comprehensive way to become an AI Engineer in 2024*
 
 Welcome to the AI Engineer Roadmap! This guide is designed to help you navigate the exciting and rapidly evolving field of AI engineering. Whether you're just starting out or looking to expand your skills, this roadmap covers essential topics and provides resources to support your learning journey.
@@ -58,18 +60,23 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 1. **Function Calling and Tool Usage**
    - Implement LLM-powered tools and integrate external functions
+   - Project: Build a personal assistant that can interact with your calendar, email, and task list
 
 2. **Web-browsing Capabilities**
+   - Learn about techniques for scraping and summarizing web content
    - Project: Build an open-source version of Perplexity (like [morph.so](https://morph.so))
 
 3. **Fine-tuning LLMs**
    - Techniques for adapting pre-trained models to specific tasks
+   - Project: Fine-tune a model on a specific domain (e.g., medical terminology, legal jargon)
 
 4. **Embeddings and Vector Databases**
    - Understand and implement vector representations of text
-   - Explore vector database solutions for efficient similarity search
+   - Explore vector database solutions for efficient similarity search (e.g. [Chroma](https://www.trychroma.com/), [Supabase](https://supabase.com/vector), [Weaviate](https://weaviate.io/))
+   - Project: Build a semantic search engine for a large corpus of documents
 
 5. **Retrieval Augmented Generation (RAG)**
+   - Learn about different RAG architectures and when to use them
    - Project: Develop a "Chat with PDF" application
 
 6. **AI Agents**
@@ -80,6 +87,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 1. **Text-to-Speech (TTS)**
    - Implement TTS using services like ElevenLabs
+   - Project: Create an audiobook generator from text input
 
 2. **Speech-to-Text (STT)**
    - Utilize models like OpenAI's Whisper for transcription
@@ -87,31 +95,41 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 3. **Speech Analysis**
    - Explore emotion and intent analysis using tools like Hume AI or Google Gemini 1.5 Pro
-   - Project: create an AI Therapist with emotion detection
+   - Project: Create an AI Therapist with emotion detection
+   - Learn about prosody analysis and its applications in understanding speaker intent
 
 ## Image Generation
 
 1. **Prompt Engineering for Image Generation**
    - Read up on art history and photography terminology to craft effective prompts
    - Join the [Midjourney Discord](https://discord.gg/midjourney) to study how experts prompt image models
+   - Project: Create a series of images that tell a story, using consistent style and characters
 
 2. **Proprietary Image Generation Models**
    - Explore capabilities of models like GPT-4V (OpenAI)
    - Project: Children's coloring/story book generator
+   - Learn about image-to-image transformations (style transfer, inpainting, outpainting)
 
 3. **Open-source Image Generation Models**
    - Experiment with Stable Diffusion and other accessible models
+   - Project: Build a custom image generation UI with fine-grained controls
 
 ## Computer Vision
 
 1. **Image Analysis**
    - Leverage models like Claude or GPT-4V for comprehensive image understanding
+   - Project: Develop an app that can analyze and describe the contents of photos
+   - Learn about object detection, segmentation, and classification techniques
 
 2. **Video Analysis**
    - Explore advanced capabilities with models like Google Gemini 1.5 Pro
    - Project: [Video narration](https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding)
+   - Study techniques for tracking objects and analyzing motion in videos
+   - Project: Create a sports analysis tool that can break down player movements and tactics
 
 ---
+
+Remember, this roadmap is a guide, not a strict rulebook. Feel free to dive deeper into areas that interest you most, and don't be afraid to explore emerging technologies and techniques as they appear. The field of AI is constantly evolving, so staying curious and adaptable is key to success.
 
 Happy learning and building!
 
