@@ -15,7 +15,7 @@ Welcome to the AI Engineer Roadmap! This guide offers a project-based approach t
 ## Web/App Development
 
 <img src="https://media.cleanshot.cloud/media/12614/7qQT5ESh2W1X2iIydK4RPhPvOGYhEDiMpBbWnVXp.jpeg?Expires=1719903059&Signature=WCBBi6KQCzmHmJrzLQK5EagFSabKHQd9kppeP9pxnLfceC59gmdmfu6-qUfflNiDrecdu-gPDJpvOVdh4wKrXWEs4Wyu72dt0TGw~QSa5GVTa0dFxf-SCQYx-XRDGhe06vhpYRZCOzbylt6ap0ph7dXRnO6qJf0PsZgBnBS8~e3VQ1R1SiN7QSMCQJUcAOYokDE-RlRw5xaIcLqrir8lp4U9GVNpKDZd37GWPKV5ZHPqNLij5tLWE2d3dy9aGmP-GIITOZs8btqW8ZNRPtWh6CG8jR9sP5dLriyi3MGHzfHjjVR7HzojohcL-Vzl4c6WXQJwLktbCIgQg4E8QYTBQA__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="600" alt="application development" />
+ width="900" alt="application development" />
  
 It helps to have the ability to code your own interfaces, but it's also 100% possible to build AI products without knowing how to program. It's up to you if you wanna go down the coding (full-stack) route or no-code (Webflow, Zapier, etc) route.
 
@@ -32,6 +32,9 @@ There are tons of roadmaps out there for learning web development. One of my fav
 - **Database**: Leverage Firebase or Airtable for easy-to-use, scalable data storage solutions
 
 ## Beginner Text Generation
+
+<img src="https://media.cleanshot.cloud/media/12614/8I5dCyL1G8W8zyr431f1HjTKWLaZdwkwv6yHX5gl.jpeg?Expires=1719903245&Signature=Xby9dWZE~ab1HGS-0-NIWGBAZ74hdS-rgywvOYx6Uwl0Nq-Q2thck9Mvj~NSXZf1MeqKU73hDTDzbSwzr4c~gRzskPMvp1zTryJvcOGp9KOYVKbAZh~EsnEDr2r2noWK6usGKL-m8Dd~8ngzthy-2CguCVh-4S0dwhKjbbiRi2EU90BtuEoZP3tVElqSozdnkOq~y2~duGo3Peh7S7DCu5t3a079WqUq0XT5QvGRkUH-PZqfgl1TBwBowprRtWA4Gcn96fh3n4Hj4n8oF8IJTEuGEL9DpSpwLNkiuszLDJ3Gt-OF5Q-pkxB7VE3Vv1rR4vo~ZOy8ywMSKUJPYI-7lQ__&Key-Pair-Id=K269JMAT9ZF4GZ"
+ width="900" alt="beginner text generation" />
 
 1. **Understanding Large Language Models (LLMs)**
    - Watch [3Blue1Brown's Youtube series on LLMs/Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M) as an entry point
@@ -59,6 +62,9 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 ## Advanced Text Generation
 
+<img src="https://media.cleanshot.cloud/media/12614/wkRqoBwj1nQfwWCNcmiTGuMvx1UsDL7xkNFoPbCy.jpeg?Expires=1719903317&Signature=JEUlc8GOO2hqgolqmW61HRGA0IGjGuWhAJAQiTA8ElavZUWEPaLnjtC9y8O18~0RS7VUbLEGt0mie1t90rpYX~xYMBMYeIkOF7LySIEFlydsmZzQImY3W6-PCE~ybKo~-NcsTmbTzlsaBh8RoKGBSiSx6RM6jw6yieS8dEktsY-0iwDLNJvifPkoIbwI6QBk6hTuoI0ZIKlNgBQcV99iW5Fq6KDsLfqqfsNkdHBIiMQnVhVDtb~tNdRTkD5R-6nFQgBAMcallbR0RIFt6~O0zGcvjuUHknha-0m8b0kAGADYaAzdpHM0cTQ1KtgNwYuCAsY7PvQuavaZxyN6eHROsA__&Key-Pair-Id=K269JMAT9ZF4GZ"
+ width="900" alt="advanced text generation" />
+ 
 1. **Function Calling and Tool Usage**
    - Implement LLM-powered tools and integrate external functions
    - Project: Build a personal assistant that can interact with your calendar, email, and task list
