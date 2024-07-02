@@ -14,7 +14,7 @@ Welcome to the AI Engineer Roadmap! This guide offers a project-based approach t
 
 ## Web/App Development
 
-![application development](https://share.cleanshot.com/BtGwv0Ln)
+![application development](https://share.cleanshot.com/BtGwv0Ln)](https://media.cleanshot.cloud/media/12614/7qQT5ESh2W1X2iIydK4RPhPvOGYhEDiMpBbWnVXp.jpeg?Expires=1719903059&Signature=WCBBi6KQCzmHmJrzLQK5EagFSabKHQd9kppeP9pxnLfceC59gmdmfu6-qUfflNiDrecdu-gPDJpvOVdh4wKrXWEs4Wyu72dt0TGw~QSa5GVTa0dFxf-SCQYx-XRDGhe06vhpYRZCOzbylt6ap0ph7dXRnO6qJf0PsZgBnBS8~e3VQ1R1SiN7QSMCQJUcAOYokDE-RlRw5xaIcLqrir8lp4U9GVNpKDZd37GWPKV5ZHPqNLij5tLWE2d3dy9aGmP-GIITOZs8btqW8ZNRPtWh6CG8jR9sP5dLriyi3MGHzfHjjVR7HzojohcL-Vzl4c6WXQJwLktbCIgQg4E8QYTBQA__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
 It helps to have the ability to code your own interfaces, but it's also 100% possible to build AI products without knowing how to program. It's up to you if you wanna go down the coding (full-stack) route or no-code (Webflow, Zapier, etc) route.
 
