@@ -1,3 +1,6 @@
+<img src="https://media.cleanshot.cloud/media/12614/P6J9jxugU7xM2yGIoexHdQuTAwN7T7heBLkkdf2H.jpeg?Expires=1719950405&Signature=Q8ptXDRjPui1pzLi3TA5sfj3r0sxdNC8PbrrBykcGiW2nFgbF2QjfTp~vJouidgZpVVGKqXrT~xgwldHHBgHP1kYx9FJj-YvM261fFwbZ07MAJAheGs8NfLpBf6ptm8stsmSTyUTczN9b2Zk46fDl3bwsxFV6VDfLT9KZgT71mIkg8Ns6dd7BtRGtPwJZiCMilc6Z-lLuHOLAsPlIz9ObvejSG7akvmNwVmyiENQ5Dw-lyJ8UA~x-EQxigriCuaQxmrGlLwLckjpLkQYNlGWCb~F09Nbpv0ivEwZYEg9H6jm-HV5kq2RJ81KfMq6fRoCVRRo8wBVPMcXYDIe3q7frw__&Key-Pair-Id=K269JMAT9ZF4GZ"
+ width="900" alt="ai engineer roadmap" />
+
 # AI Engineer Roadmap
 
 *The fastest, most comprehensive way to become an AI Engineer in 2024*
@@ -14,7 +17,7 @@ Welcome to the AI Engineer Roadmap! This guide offers a project-based approach t
 
 # Web/App Development
 
-<img src="https://media.cleanshot.cloud/media/12614/7qQT5ESh2W1X2iIydK4RPhPvOGYhEDiMpBbWnVXp.jpeg?Expires=1719903059&Signature=WCBBi6KQCzmHmJrzLQK5EagFSabKHQd9kppeP9pxnLfceC59gmdmfu6-qUfflNiDrecdu-gPDJpvOVdh4wKrXWEs4Wyu72dt0TGw~QSa5GVTa0dFxf-SCQYx-XRDGhe06vhpYRZCOzbylt6ap0ph7dXRnO6qJf0PsZgBnBS8~e3VQ1R1SiN7QSMCQJUcAOYokDE-RlRw5xaIcLqrir8lp4U9GVNpKDZd37GWPKV5ZHPqNLij5tLWE2d3dy9aGmP-GIITOZs8btqW8ZNRPtWh6CG8jR9sP5dLriyi3MGHzfHjjVR7HzojohcL-Vzl4c6WXQJwLktbCIgQg4E8QYTBQA__&Key-Pair-Id=K269JMAT9ZF4GZ"
+<img src="https://media.cleanshot.cloud/media/12614/VCHgibAmtf4iu2SHlhHl5CKpvkj2b4Fg6yXAUZgU.jpeg?Expires=1719950079&Signature=L3yfVbtSZICjwFwQJbSUsCa7mLUWEVYD81GffAytPBIxgwJMFGibKMbvh3pY6a3HTua8HI29Ek-P7tKui~CXvqEL3ach0PWCvIunEKZhXlA5wnZB7EBQCG1kuo8HZEOKFxLER69kgXRIO-3B9fFO7vZyNuBzHXjgHN77zwpJGY7N0HGnSB3tbYdCbxlEgCPwYzmLFdGONclMiqEqw9ppBW7cWlGYsvaDFS5un-OVCLBxVrzgv8W-7aVhjirNkLl3K6fiqnHZBGXTo47ZvpWqnImgq-8srlF4ptt0LXljV8xrZdRWLjO-p8ZMwiGRfAI9lLorvWAq-6BizSg3~0dPQg__&Key-Pair-Id=K269JMAT9ZF4GZ"
  width="900" alt="application development" />
  
 It helps to have the ability to code your own interfaces, but it's also 100% possible to build AI products without knowing how to program. It's up to you if you wanna go down the coding (full-stack) route or no-code (Webflow, Zapier, etc) route.
@@ -91,6 +94,9 @@ There are tons of roadmaps out there for learning web development. One of my fav
    - Project: Autonomous research agent
 
 # Speech
+
+<img src="https://media.cleanshot.cloud/media/12614/4YKfMoOjc2F3VLpJS85QRWiu8c3i9HeRDYx0paHG.jpeg?Expires=1719950443&Signature=RedmBb5iS7kCTy4vfZmRQMCUPMDQ48TUOkGgwi6uBT850oqLFgLSikKdqLiPd6sgtWFtfGHt2kv1BpjGXAnieJKbvwtt6m2a1wBtyXpbyPKhumJyuahtnetBEJyP4SjsjlOnUmcLv-~gjE3UR8RH4dNbQc2VgeQW94lzwfdtkckWgkMA1XmCkLp8~UyXIJdCDct5dPrGY2knUTA0ZU8lWoM88sY0UDxflW0TcfpxoGCxJeZOVwecuv1~UpA9N63DtgDSvw~VtTUVMKdnKb-1ukHKsAQCt7DPOPs8iXpyViw6N-JHL3yk2ypfDGXvr7fNIGfE0Qv14qeD8BrPIFJZmA__&Key-Pair-Id=K269JMAT9ZF4GZ"
+ width="900" alt="speech" />
 
 1. **Text-to-Speech (TTS)**
    - Implement TTS using services like ElevenLabs
