@@ -127,8 +127,6 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 ---
 
-Remember, this roadmap is a guide, not a strict rulebook. Feel free to dive deeper into areas that interest you most, and don't be afraid to explore emerging technologies and techniques as they appear. The field of AI is constantly evolving, so staying curious and adaptable is key to success.
-
 Happy learning and building!
 
 - Zack
