@@ -99,7 +99,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
  width="900" alt="speech" />
 
 1. **Text-to-Speech (TTS)**
-   - Implement TTS using services like ElevenLabs
+   - Implement TTS using services like ElevenLabs and OpenAI
    - Project: Create an audiobook generator from text input
 
 2. **Speech-to-Text (STT)**
@@ -122,7 +122,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
    - Project: Create a series of images that tell a story, using consistent style and characters
 
 2. **Proprietary Image Generation Models**
-   - Explore capabilities of models like GPT-4V (OpenAI)
+   - Explore capabilities of models like GPT-4o, Claude, and Gemini
    - Project: Children's coloring/story book generator
    - Learn about image-to-image transformations (style transfer, inpainting, outpainting)
 
@@ -136,7 +136,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
  width="900" alt="computer vision" />
 
 1. **Image Analysis**
-   - Leverage models like Claude or GPT-4V for comprehensive image understanding
+   - Leverage models like Claude or GPT-4o for comprehensive image understanding
    - Project: Develop an app that can analyze and describe the contents of photos
    - Learn about object detection, segmentation, and classification techniques
 
