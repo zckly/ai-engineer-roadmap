@@ -1,5 +1,4 @@
-<img src="https://media.cleanshot.cloud/media/12614/P6J9jxugU7xM2yGIoexHdQuTAwN7T7heBLkkdf2H.jpeg?Expires=1719950405&Signature=Q8ptXDRjPui1pzLi3TA5sfj3r0sxdNC8PbrrBykcGiW2nFgbF2QjfTp~vJouidgZpVVGKqXrT~xgwldHHBgHP1kYx9FJj-YvM261fFwbZ07MAJAheGs8NfLpBf6ptm8stsmSTyUTczN9b2Zk46fDl3bwsxFV6VDfLT9KZgT71mIkg8Ns6dd7BtRGtPwJZiCMilc6Z-lLuHOLAsPlIz9ObvejSG7akvmNwVmyiENQ5Dw-lyJ8UA~x-EQxigriCuaQxmrGlLwLckjpLkQYNlGWCb~F09Nbpv0ivEwZYEg9H6jm-HV5kq2RJ81KfMq6fRoCVRRo8wBVPMcXYDIe3q7frw__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="ai engineer roadmap" />
+<img src="https://github.com/user-attachments/assets/282f9225-c70c-4e5f-8085-303fe0e6f564" width="900" alt="ai engineer roadmap" />
 
 # AI Engineer Roadmap
 
@@ -17,8 +16,7 @@ Welcome to the AI Engineer Roadmap! This guide offers a project-based approach t
 
 # Web/App Development
 
-<img src="https://media.cleanshot.cloud/media/12614/VCHgibAmtf4iu2SHlhHl5CKpvkj2b4Fg6yXAUZgU.jpeg?Expires=1719950079&Signature=L3yfVbtSZICjwFwQJbSUsCa7mLUWEVYD81GffAytPBIxgwJMFGibKMbvh3pY6a3HTua8HI29Ek-P7tKui~CXvqEL3ach0PWCvIunEKZhXlA5wnZB7EBQCG1kuo8HZEOKFxLER69kgXRIO-3B9fFO7vZyNuBzHXjgHN77zwpJGY7N0HGnSB3tbYdCbxlEgCPwYzmLFdGONclMiqEqw9ppBW7cWlGYsvaDFS5un-OVCLBxVrzgv8W-7aVhjirNkLl3K6fiqnHZBGXTo47ZvpWqnImgq-8srlF4ptt0LXljV8xrZdRWLjO-p8ZMwiGRfAI9lLorvWAq-6BizSg3~0dPQg__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="application development" />
+<img src="https://github.com/user-attachments/assets/90cd2b88-f3b7-4326-bf4a-9786b3bb6207" width="900" alt="application development" />
  
 It helps to have the ability to code your own interfaces, but it's also 100% possible to build AI products without knowing how to program. It's up to you if you wanna go down the coding (full-stack) route or no-code (Webflow, Zapier, etc) route.
 
@@ -35,9 +33,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 - **Database**: Leverage Firebase or Airtable for easy-to-use, scalable data storage solutions
 
 # Beginner Text Generation
-
-<img src="https://media.cleanshot.cloud/media/12614/8I5dCyL1G8W8zyr431f1HjTKWLaZdwkwv6yHX5gl.jpeg?Expires=1719903245&Signature=Xby9dWZE~ab1HGS-0-NIWGBAZ74hdS-rgywvOYx6Uwl0Nq-Q2thck9Mvj~NSXZf1MeqKU73hDTDzbSwzr4c~gRzskPMvp1zTryJvcOGp9KOYVKbAZh~EsnEDr2r2noWK6usGKL-m8Dd~8ngzthy-2CguCVh-4S0dwhKjbbiRi2EU90BtuEoZP3tVElqSozdnkOq~y2~duGo3Peh7S7DCu5t3a079WqUq0XT5QvGRkUH-PZqfgl1TBwBowprRtWA4Gcn96fh3n4Hj4n8oF8IJTEuGEL9DpSpwLNkiuszLDJ3Gt-OF5Q-pkxB7VE3Vv1rR4vo~ZOy8ywMSKUJPYI-7lQ__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="beginner text generation" />
+<img src="https://github.com/user-attachments/assets/d3dd8a14-b611-4050-82fd-7ec741639ab1" width="900" alt="beginner text generation" />
 
 1. **Understanding Large Language Models (LLMs)**
    - Watch [3Blue1Brown's Youtube series on LLMs/Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M) as an entry point
@@ -65,8 +61,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 # Advanced Text Generation
 
-<img src="https://media.cleanshot.cloud/media/12614/wkRqoBwj1nQfwWCNcmiTGuMvx1UsDL7xkNFoPbCy.jpeg?Expires=1719903317&Signature=JEUlc8GOO2hqgolqmW61HRGA0IGjGuWhAJAQiTA8ElavZUWEPaLnjtC9y8O18~0RS7VUbLEGt0mie1t90rpYX~xYMBMYeIkOF7LySIEFlydsmZzQImY3W6-PCE~ybKo~-NcsTmbTzlsaBh8RoKGBSiSx6RM6jw6yieS8dEktsY-0iwDLNJvifPkoIbwI6QBk6hTuoI0ZIKlNgBQcV99iW5Fq6KDsLfqqfsNkdHBIiMQnVhVDtb~tNdRTkD5R-6nFQgBAMcallbR0RIFt6~O0zGcvjuUHknha-0m8b0kAGADYaAzdpHM0cTQ1KtgNwYuCAsY7PvQuavaZxyN6eHROsA__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="advanced text generation" />
+<img src="https://github.com/user-attachments/assets/5ce787eb-8f71-4384-abb8-d4b991e8167b" width="900" alt="advanced text generation" />
  
 1. **Function Calling and Tool Usage**
    - Implement LLM-powered tools and integrate external functions
@@ -95,8 +90,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 # Speech
 
-<img src="https://media.cleanshot.cloud/media/12614/4YKfMoOjc2F3VLpJS85QRWiu8c3i9HeRDYx0paHG.jpeg?Expires=1719950443&Signature=RedmBb5iS7kCTy4vfZmRQMCUPMDQ48TUOkGgwi6uBT850oqLFgLSikKdqLiPd6sgtWFtfGHt2kv1BpjGXAnieJKbvwtt6m2a1wBtyXpbyPKhumJyuahtnetBEJyP4SjsjlOnUmcLv-~gjE3UR8RH4dNbQc2VgeQW94lzwfdtkckWgkMA1XmCkLp8~UyXIJdCDct5dPrGY2knUTA0ZU8lWoM88sY0UDxflW0TcfpxoGCxJeZOVwecuv1~UpA9N63DtgDSvw~VtTUVMKdnKb-1ukHKsAQCt7DPOPs8iXpyViw6N-JHL3yk2ypfDGXvr7fNIGfE0Qv14qeD8BrPIFJZmA__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="speech" />
+<img src="https://github.com/user-attachments/assets/1ce8f7d7-0e5f-4e48-90b1-a1ba2965dd65" width="900" alt="speech" />
 
 1. **Text-to-Speech (TTS)**
    - Implement TTS using services like ElevenLabs and OpenAI
