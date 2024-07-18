@@ -113,8 +113,9 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 # Image Generation
 
-<img src="https://media.cleanshot.cloud/media/12614/VySdGogFKdhP0j81WuJHdzgObZXnxOPSDXQf6HoJ.jpeg?Expires=1719951108&Signature=Rj-6os7DYSWPTXamYhM87buRKbe37dWm8OmJr86EdKaPJQteog5XBjLN5GGe3b1WT~dlZrrY075eEeG7sMjQKTuSzCjL9fUZ3CenTGZTVKiX0s6yZUYN03g2vCeaUaDarV0q~Zj9kWgBzCcohCYWr2jtshoFuM0sRFHCq5tHTGvS08cocew19zcUrMwmNlf4eDN8CAi66SidfnDWa0XdsdwcxVlazqBQmyNJN1xnUPpsNBbzn1X-tC1PFNY-yutGvz1FXeLyegowBUz-1lGaNuCvwYieXe4wvspyRXScbZCYQeheLrVgCUCSKP3WNxgVm-e4cyVhSrdT8Fiw~oSrTg__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="image generation" />
+![CleanShot July 2](https://github.com/user-attachments/assets/b16228db-8e8e-4d89-a37e-4bbe9732ef3c)
+
+<img src="https://github.com/user-attachments/assets/b16228db-8e8e-4d89-a37e-4bbe9732ef3c" width="900" alt="image generation" />
 
 1. **Prompt Engineering for Image Generation**
    - Read up on art history and photography terminology to craft effective prompts
@@ -132,8 +133,7 @@ There are tons of roadmaps out there for learning web development. One of my fav
 
 # Computer Vision
 
-<img src="https://media.cleanshot.cloud/media/12614/5hlSbBEZdwcrIc0KKhunluPzpfFRIvn5ObEny1dI.jpeg?Expires=1719951236&Signature=JvNDOHoch7lrQhLfnP5iCIZb58xVaaL4kWvkpXII1vANuTb4W9HjXnSC4LFn~VgjR7ejuTLkZQx0VNz6cALCMkW5o3LyCeh5J6TfNmP9UeFMUseryFvY6beovrSwfpR4DWVpTpWew74UNLAviC5QTOcXxG2iRnqeBKVMt8rMXbgoezx4340oo2ecw1pADhD1MKCA0-TQJKGlF-9xCHmPlH7rIXw09iLVxsT9s8eTH9WKLv-M4zd0-QdYXfckA~SbAmO622qUhKKB2Grl45yU718xHONJu0GSbyrzN7~sx0pIeGBZBSLAzlhNVnXgxXtM1~c8KzAhnjRDlmXACB9sJg__&Key-Pair-Id=K269JMAT9ZF4GZ"
- width="900" alt="computer vision" />
+<img src="https://github.com/user-attachments/assets/dc64163b-045f-46fa-8c7b-520ef0ef0b30" width="900" alt="computer vision" />
 
 1. **Image Analysis**
    - Leverage models like Claude or GPT-4o for comprehensive image understanding
